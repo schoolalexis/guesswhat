@@ -3,7 +3,7 @@
 
 
 Le projet 'GuessWhat' est un projet donné dans le cadre d'un cours sur la notion de POO (ou Programmation Orientée Objet) en PHP.
-
+[GuessWhat LINK !](https://github.com/schoolalexis/guesswhat)
 
 
 /!\ **Attention** : _Le readme, sert de rapport de projet mais ne traitera uniquement que les challenges réussis et les challenges en cours_ /!\\
